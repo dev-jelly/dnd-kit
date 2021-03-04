@@ -1,5 +1,11 @@
 # @dnd-kit/core
 
+## 1.1.0
+
+### Minor Changes
+
+- [`208f68e`](https://github.com/clauderic/dnd-kit/commit/208f68e251c1b81a624f810f40e7c8d4f36f102d) [#111](https://github.com/clauderic/dnd-kit/pull/111) Thanks [@ranbena](https://github.com/ranbena)! - Keyboard sensor now cancels dragging on window resize
+
 ## 1.0.2
 
 ### Patch Changes
